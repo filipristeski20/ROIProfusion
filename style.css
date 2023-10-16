@@ -1,0 +1,717 @@
+html{
+    font-size: 62.5%;
+}
+
+body{
+    box-sizing: border-box;
+    font-family: 'Poppins';
+    margin: 0;
+    background-color: #242738;
+}
+
+.rightColumnPicture img{
+    width: 100%;
+}
+
+
+.navigation .navigationtop{
+    max-width: 35rem;
+    max-height: 5.3rem;
+    border-radius: 3.0rem;
+    margin: 0 auto;
+    margin-top: 4.4rem;
+    background-color: #F5F5F5;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 0;
+
+}
+
+.navigation .navigationtop .logo a img{
+    width: 13.8rem;
+    margin-left: 1.3rem;
+    margin-top: 0.9rem;
+    margin-bottom: 0.9rem;
+}
+
+.navigation .navigationtop .hamburgermenu a img{
+    width: 3.5rem;
+    height: 3.5rem;
+    margin-right: 2.3rem;
+}
+
+.navigationbar{
+    display: none;
+}
+
+.contactUsButton{
+    display: none;
+}
+
+.mainLandingSection .mainLandingSectionContainer{
+    max-width: 35rem;
+    margin: 0 auto;
+}
+
+.mainLandingSection .mainLandingSectionContainer .leftColumn .global{
+
+    color: white;
+    text-align: center;
+    text-transform: uppercase;
+    font-size: 3.0em;
+    font-weight: 700;
+    line-height: normal;
+    margin-top: 4.5rem;
+}
+
+.mainLandingSection .mainLandingSectionContainer .leftColumn .global .scaling{
+    color: #06C269;
+}
+
+.mainLandingSection .mainLandingSectionContainer .leftColumn .global .autopilot{
+    color: #06C269;
+}
+
+.mainLandingSection .mainLandingSectionContainer .leftColumn .unlock{
+
+    color: white;
+    text-align: center;
+    font-size: 1.6em;
+    font-weight: 500;
+    line-height: normal;
+    margin-top: 1.5rem;
+}
+
+.mainLandingSection .mainLandingSectionContainer .leftColumn .getStarted{
+    width: 23.5rem;
+    height: 5.2rem;
+    background: #06C269;
+    border-radius: 2.1rem;
+    color: white;
+    font-size: 1.9em;
+    font-weight: 600;
+    line-height: normal;
+    margin-top: 5.7rem;
+    margin-left: 5.7rem;
+    border-style: solid;
+    border-color: #06C269;
+    
+}
+
+.mainLandingSection .mainLandingSectionContainer .rightColumn{
+    display: flex;
+    margin-top: 5.7rem;
+    
+}
+
+.mainLandingSection .mainLandingSectionContainer .rightColumn .rightColumnStatistics .statistics1 {
+    border-radius: 3.15rem 5.68rem 0rem 3.15rem;
+    border: 0.063rem solid #06C269;
+    background-color: #1C1E29;
+    width: 13.83rem;
+    height: 17.12rem;
+    
+}
+
+.mainLandingSection .mainLandingSectionContainer .rightColumn .rightColumnStatistics .statistics1 .no1{
+    color: #06C269;
+    font-weight: 600;
+    font-size: 3.15em;
+    font-style: normal;
+    font-weight: 600;
+    line-height: normal;
+    margin-top: 3.7rem;
+    margin-left: 3.1rem;
+    margin-right: 3.1rem;
+    margin-bottom: 0;
+    
+}
+
+.mainLandingSection .mainLandingSectionContainer .rightColumn .rightColumnStatistics .statistics1 .no1text{
+    color: #F5F5F5;
+    font-size: 1.13em;
+    font-style: normal;
+    font-weight: 500;
+    line-height: normal;
+    margin-left: 2.0rem;
+    margin-right: 2.0rem;
+    margin-top: 0;
+    text-align: center;
+}
+
+.mainLandingSection .mainLandingSectionContainer .rightColumn .rightColumnStatistics .statistics2 {
+    border-radius: 3.15rem 0 5.68rem 3.15rem;
+    border: 0.063rem solid #06C269;
+    background-color: #1C1E29;
+    width: 13.83rem;
+    height: 17.12rem;
+    margin-top: 1.76rem;
+    
+}
+
+
+.mainLandingSection .mainLandingSectionContainer .rightColumn .rightColumnStatistics .statistics2 .twohundredfifty {
+    color: #06C269;
+    font-weight: 600;
+    font-size: 3.15em;
+    font-style: normal;
+    font-weight: 600;
+    line-height: normal;
+    margin-top: 4.9rem;
+    margin-left: 2.9rem;
+    margin-bottom: 0;
+    
+}
+
+.mainLandingSection .mainLandingSectionContainer .rightColumn .rightColumnStatistics .statistics2 .generated{
+    color: #F5F5F5;
+    font-size: 1.13em;
+    font-style: normal;
+    font-weight: 500;
+    line-height: normal;
+    margin-left: 1.9rem;
+    margin-right: 1.9rem;
+    margin-top: 0;
+    text-align: center;
+
+}
+
+.mainLandingSection .mainLandingSectionContainer .rightColumn .rightColumnPicture{
+    overflow: hidden;
+}
+
+.mainLandingSection .mainLandingSectionContainer .rightColumn .rightColumnPicture img{
+    width: 19.2rem;
+    height: 36.0rem;
+    border-radius: 3.1rem;
+    border: 0.063px solid #F5F5F5;
+    margin-left: 1.9rem;
+    object-fit: cover;
+}
+
+.numbersSection .numbersSectionContainer {
+    max-width: 35rem;
+    margin: 0 auto;
+    background-color:#1C1E29;
+    border-radius: 3.0rem;
+    border: 0.01rem solid #06C269;
+    margin-top: 7.1rem;
+    padding: 5.4rem 0;
+
+}
+
+.numbersSection .numbersSectionContainer .onehundredfifty{
+    font-size: 3.5em;
+    color: #06C269;
+    font-weight: 700;
+    text-transform: uppercase;
+    margin-left: 14.6rem;
+    margin-right: 14.6rem;
+    margin-bottom: 0;
+    margin-top: 0;
+}
+
+.numbersSection .numbersSectionContainer .campaignslaunched{
+    color: #FFF;
+    font-size: 2.0rem;
+    font-style: normal;
+    font-weight: 700;
+    line-height: normal;    
+    text-transform: uppercase;
+    margin-top: 0;
+    margin-left: 5.7rem;
+}
+
+.numbersSection .numbersSectionContainer .threethousand{
+    font-size: 3.5em;
+    color: #06C269;
+    font-weight: 700;
+    text-transform: uppercase;
+    margin-top: 6.5rem;
+    margin-left: 13rem;
+    margin-right: 13rem;
+    margin-bottom: 0;
+}
+
+.numbersSection .numbersSectionContainer .leadDelivered{
+    color: #FFF;
+    font-size: 2.0rem;
+    font-style: normal;
+    font-weight: 700;
+    line-height: normal;    
+    text-transform: uppercase;
+    margin-top: 0;
+    margin-left: 8.9rem;
+    margin-right: 9.0rem;
+}
+
+.numbersSection .numbersSectionContainer .onehundredninetyfive{
+    font-size: 3.5em;
+    color: #06C269;
+    font-weight: 700;
+    text-transform: uppercase;
+    margin-top: 6.8rem;
+    margin-left: 10.7rem;
+    margin-right: 10.6rem;
+    margin-bottom: 0;
+}
+
+.numbersSection .numbersSectionContainer .emailsSent{
+    color: #FFF;
+    font-size: 2.0rem;
+    font-style: normal;
+    font-weight: 700;
+    line-height: normal;    
+    text-transform: uppercase;
+    margin-top: 0;
+    margin-left: 11.2rem;
+    margin-right: 11.2rem;
+    bottom: 0;
+}
+
+.descriptionSection .descriptionSectionContainer {
+
+    max-width: 35rem;
+    margin: 7.7rem auto;
+    
+}
+
+.descriptionSection .descriptionSectionContainer .weHelpYou .grow{
+    color: #FFF;
+    font-family: Poppins;
+    font-size: 3.4em;
+    font-style: normal;
+    font-weight: 700;
+    line-height: normal;
+    text-transform: uppercase;
+    margin-top: 0;
+    margin-bottom: 0;
+
+}
+
+.descriptionSection .descriptionSectionContainer .leftcolumndescription{
+    border-radius: 3.5rem 3.5rem 0px 0rem;
+    border: 0.7px solid #06C269;
+    background: #1C1E29;    
+    margin-top: 7.9rem;
+    padding: 0;
+    padding-top: 4.5rem;
+    padding-bottom: 4.5rem;
+}
+
+.descriptionSection .descriptionSectionContainer .leftcolumndescription .authentic{
+    color: white;
+    color: #F5F5F5;
+    text-align: center;
+    font-size: 2.0em;
+    font-style: normal;
+    font-weight: 700;
+    line-height: normal;
+    text-transform: uppercase;
+    margin-left: 4.8rem;
+    margin-right: 4.8rem;
+}
+
+.descriptionSection .descriptionSectionContainer .leftcolumndescription .line{
+    width: 20rem;
+    height: 0.2rem;
+    background-color: #06C269;
+    margin-left: 7.5rem;
+    margin-top: 1.7rem;
+}
+
+.descriptionSection .descriptionSectionContainer .leftcolumndescription .outshine{
+    color: #F5F5F5;
+    text-align: center;
+    font-size: 1.4em;
+    font-style: normal;
+    font-weight: 500;
+    line-height: normal;
+    margin-left: 3.4rem;
+    margin-right: 3.3rem;
+    margin-top: 1.7rem;
+}
+
+
+.descriptionSection .descriptionSectionContainer .rightcolumndescription .rightColumnDescriptionTop{
+    border: 0.7px solid #06C269;
+    background: #1C1E29;    
+    padding: 0;
+    padding-top: 4.1rem;
+    padding-bottom: 4.1rem;
+}
+
+.descriptionSection .descriptionSectionContainer .rightcolumndescription .rightColumnDescriptionTop .coldEmail{
+    color: #F5F5F5;
+    text-align: center;
+    font-size: 2.0em;
+    font-style: normal;
+    font-weight: 700;
+    line-height: normal;
+    text-transform: uppercase;
+    margin-left: 6.0rem;
+    margin-right: 6.0rem;
+}
+
+.descriptionSection .descriptionSectionContainer .rightcolumndescription .rightColumnDescriptionTop .line2{
+    width: 20rem;
+    height: 0.2rem;
+    background-color: #06C269;
+    margin-left: 7.5rem;
+    margin-top: 2.8rem;
+}
+
+.descriptionSection .descriptionSectionContainer .rightcolumndescription .rightColumnDescriptionTop .employ{
+    color: #F5F5F5;
+    text-align: center;
+    font-size: 1.4em;
+    font-style: normal;
+    font-weight: 500;
+    line-height: normal;
+    margin-left: 3.4rem;
+    margin-right: 3.3rem;
+    margin-top: 3.6rem;
+}    
+
+
+.descriptionSection .descriptionSectionContainer .rightcolumndescription .rightColumnDescriptionBottom{
+    border: 0.7px solid #06C269;
+    border-radius: 0rem 0 3.5rem 3.5rem;
+    background: #1C1E29;    
+    padding: 0;
+    padding-top: 4.1rem;
+    padding-bottom: 4.1rem;
+}
+
+.descriptionSection .descriptionSectionContainer .rightcolumndescription .rightColumnDescriptionBottom .qualified{
+    color: #F5F5F5;
+    text-align: center;
+    font-size: 2.0em;
+    font-style: normal;
+    font-weight: 700;
+    line-height: normal;
+    text-transform: uppercase;
+    margin-left: 4.1rem;
+    margin-right: 4.1rem;
+    margin-top: 0;
+    margin-bottom: 0;
+}
+
+.descriptionSection .descriptionSectionContainer .rightcolumndescription .rightColumnDescriptionBottom .line3{
+    width: 20rem;
+    height: 0.2rem;
+    background-color: #06C269;
+    margin-left: 7.5rem;
+    margin-top: 2.8rem;
+}
+
+.descriptionSection .descriptionSectionContainer .rightcolumndescription .rightColumnDescriptionBottom .ourLeads{
+    color: #F5F5F5;
+    text-align: center;
+    font-size: 1.4em;
+    font-style: normal;
+    font-weight: 500;
+    line-height: normal;
+    margin-left: 3.4rem;
+    margin-right: 3.3rem;
+    margin-top: 3.6rem;
+}    
+
+.stepsSection .stepsContainer {
+    max-width: 35rem;
+    margin: 0 auto;
+}
+
+.stepsSection .stepsContainer .title{
+
+    color: #FFF;
+    text-align: center;
+    font-size: 2.7em;
+    font-style: normal;
+    font-weight: 700;
+    line-height: normal;
+    text-transform: uppercase; 
+    margin: 0;
+    margin-top: 11rem;   
+
+}
+
+.stepsSection .stepsContainer .step .stepnumber1{
+
+    color: #FFF;
+    font-size: 4.49rem;    
+    font-style: normal;
+    font-weight: 700;
+    line-height: normal;
+    text-transform: uppercase;
+    margin-left: 9.7rem;
+    margin-right: 9.7rem;
+    margin-top: 11.1rem;
+    
+
+}
+
+.stepsSection .stepsContainer .step .stepnumber1 .number1{
+
+    color: #06C269;
+font-family: Poppins;
+font-size: 7.98rem;
+font-style: normal;
+font-weight: 700;
+line-height: normal;
+text-transform: uppercase;
+    
+
+}
+
+.stepsSection .stepsContainer .step .firstArrow{
+    width: 5.0rem;
+    margin: 0;
+    margin-left: 15rem;
+    margin-right: 15rem;
+    margin-top: 6.1rem;
+    transform: rotate(90deg);
+}
+
+.stepsSection .stepsContainer .step .coldEmail {
+    border-radius: 5.29rem 5.29rem 5.29rem 5.29rem;
+    border: 0.105rem solid #06C269;
+    background: #1C1E29;
+    margin-top: 6.83rem;
+
+}
+
+.stepsSection .stepsContainer .step .coldEmail .arrow .secondArrow{
+    width: 5.0rem;
+    margin: 0;
+    margin-left: 15rem;
+}
+
+.stepsSection .stepsContainer .step .coldEmail .arrow{
+    padding: 4rem 0 8rem;
+}
+
+
+.stepsSection .stepsContainer .step .coldEmail .arrow .emailStrategy{
+    color: #F5F5F5;
+    font-size: 2.2rem;    
+    font-style: normal;
+    font-weight: 700;
+    line-height: normal;
+    text-transform: uppercase;
+    margin: 0;
+    margin-left: 5rem;
+    margin-top: 4rem;
+}
+
+.stepsSection .stepsContainer .step .coldEmail .arrow .coldOutreachDesign{
+    color: #F5F5F5;
+    text-align: center;
+    font-family: Poppins;
+    font-size: 1.6rem;
+    font-style: normal;
+    font-weight: 500;
+    line-height: normal;
+    margin-top: 3.9rem;
+    margin-left: 3.4rem;
+    margin-right: 3.3rem;
+    margin-bottom: 0;    
+
+}
+
+.stepsSection .stepsContainer .step2 .yourCalendar{
+    padding: 4rem 0 8rem 0;
+}
+
+.stepsSection .stepsContainer .step2 .stepnumber2{
+
+    color: #FFF;
+    font-size: 4.49rem;    
+    font-style: normal;
+    font-weight: 700;
+    line-height: normal;
+    text-transform: uppercase;
+    margin-left: 9.7rem;
+    margin-right: 9.1rem;
+    
+
+}
+
+.stepsSection .stepsContainer .step2 .stepnumber2 .number2{    
+
+    color: #06C269;
+    font-size: 7.98rem;
+    font-style: normal;
+    font-weight: 700;
+    line-height: normal;
+    text-transform: uppercase;
+    
+
+}
+
+.stepsSection .stepsContainer .step2 .thirdArrow{
+    width: 5.0rem;
+    margin: 0;
+    margin-left: 15rem;
+    transform: rotate(90deg);
+    margin-top: 6.1rem;
+}
+
+.stepsSection .stepsContainer .step2 .yourCalendar {
+    border: 0.105rem solid #06C269;
+    border-radius: 5.29rem 5.29rem 5.29rem 5.29rem;
+    background: #1C1E29;
+    margin-top: 6.1rem;
+
+}
+
+.stepsSection .stepsContainer .step2 .yourCalendar .calendar .calendarPicture{
+    width: 5rem;
+    margin: 0;
+    margin-left: 14.9rem;
+    margin-bottom: 0;
+
+}
+
+.stepsSection .stepsContainer .step2 .yourCalendar .calendar .calendarText .fillCalendar{
+    font-size: 2.2em;
+    text-transform: uppercase;
+    color: white;
+    font-weight: 700;
+    margin: 0;
+    margin-top: 3.9rem;
+    margin-left: 5.8rem;
+    margin-right: 6.1rem;
+
+}
+
+.stepsSection .stepsContainer .step2 .yourCalendar .calendar .calendarText .wePick{
+    color: #F5F5F5;
+    text-align: center;
+    font-family: Poppins;
+    font-size: 1.7em;
+    font-style: normal;
+    font-weight: 500;
+    line-height: normal;
+    margin: 0;
+    margin: 4.0rem 3.3rem 0 3.3rem;    
+}
+
+.stepsSection .stepsContainer .step3 .stepnumber3{
+
+    color: #FFF;
+    font-size: 4.49rem;    
+    font-style: normal;
+    font-weight: 700;
+    line-height: normal;
+    text-transform: uppercase;
+    margin: 0;
+    margin-left: 9.7rem;
+    margin-right: 7.9rem;
+    margin-top: 14.4rem;
+    
+
+}
+
+
+.stepsSection .stepsContainer .step3 .number3{
+    color: #06C269;
+    font-size: 7.98rem;
+    font-style: normal;
+    font-weight: 700;
+    line-height: normal;
+    text-transform: uppercase;
+}
+
+.stepsSection .stepsContainer .step3 .arrow3{
+    width: 5rem;
+    margin: 0;
+    margin-top: 6.1rem;
+    margin-left: 15rem;
+    margin-right: 15rem;
+    transform: rotate(90deg);
+}
+
+.stepsSection .stepsContainer .step3 .yourDeal{
+
+    border: 0.105rem solid #06C269;
+    border-radius: 5.29rem 5.29rem 5.29rem 5.29rem;
+    background: #1C1E29;
+    margin-top: 6.8rem;
+    padding: 4rem 0 8rem 0;
+
+}
+
+.stepsSection .stepsContainer .step3 .yourDeal .trend .trendy{
+    margin: 0;
+    margin-left: 14.8rem;
+}
+
+.stepsSection .stepsContainer .step3 .yourDeal .trend .dealText{
+    margin: 0;
+    padding: 0;
+}
+
+.stepsSection .stepsContainer .step3 .yourDeal .trend .dealText .closeDeal{
+    color: #F5F5F5;
+    font-family: Poppins;
+    font-size: 2.2rem;
+    font-style: normal;
+    font-weight: 700;
+    line-height: normal;
+    text-transform: uppercase;
+    margin: 0;    
+    margin-left: 5.2rem;
+    margin-right: 5.6rem;
+    margin-top: 3.6rem;
+    text-align: center;
+}
+
+.stepsSection .stepsContainer .step3 .yourDeal .trend .dealText .highQuality{
+    color: #F5F5F5;
+    text-align: center;
+    font-family: Poppins;
+    font-size: 1.6rem;
+    font-style: normal;
+    font-weight: 500;
+    line-height: normal;
+    margin-left: 3.4rem;
+    margin-right: 3.3rem;  
+    margin-top: 3.7rem;
+
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

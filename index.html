@@ -19,11 +19,11 @@
     <div class="navigation">
         <div class="navigationtop">
             <div class="logo"><a href="#"><img src="/images/novologo.png" alt="logo"></a></div>
-            <div class="hamburgermenu"><a href="#"><img src="/images/hamburgermenu.svg" alt="hamburgermenu"></a>
+            <div class="hamburgermenu"><a href="#"><img src="/images/hamburgermenu.svg" alt="hamburgermenu"
+                        class="theHamburgerMenu"></a>
             </div>
             <div class="navigationbar">
-                <div class="exitHamburger"><img src="/images/" alt="exit hamburger"></div>
-                <!-- Dase klaj tuka X za izlegvanje od menito nema slika-->
+                <div class="exitHamburger"><a href="#"><img src="/images/x.svg" alt="exit hamburger"></a></div>
                 <ul>
                     <li><a href="#">Home</a></li>
                     <li><a href="#">Features</a></li>
@@ -314,6 +314,24 @@
         </div>
 
     </section>
+
+
+    <script>
+        const menu = document.querySelector('.theHamburgerMenu')
+        const close = document.querySelector('.exitHamburger')
+        const nav = document.querySelector('.navigationbar')
+
+        menu.addEventListener('click', () => {
+
+            nav.classList.add('openmenu')
+        });
+
+        close.addEventListener('click', () => {
+            nav.classList.remove('openmenu')
+        })
+
+
+    </script>
 
 
 </body>

@@ -42,8 +42,43 @@ body{
 }
 
 .navigationbar{
-    display: none;
+    position: fixed;
+    background-color: #06C269;
+    right: 0;
+    top: 0;
+    height: 100vh;
+    width: 90%;
+    z-index: 999;
+    font-size: 1.5rem;
+    transform: translate(100%);
+    transition: transform 0.5s ease-in-out;
 }
+
+.navigationbar .exitHamburger{
+    margin-top: 5rem;
+    margin-left: 5rem;
+    padding: 0;
+}
+
+.navigationbar ul{
+    list-style-type: none;
+    padding: 0;
+    margin-top: 7rem;
+}
+
+.navigationbar ul li{
+    margin-top: 2rem;
+    margin-left: 5rem;
+}
+
+.navigationbar ul li a{
+    text-decoration: none;
+    color: black;
+    font-weight: 500;
+    margin: 0;
+}
+
+
 
 .contactUsButton{
     display: none;
@@ -96,6 +131,7 @@ body{
     margin-left: 5.7rem;
     border-style: solid;
     border-color: #06C269;
+    cursor: pointer;
     
 }
 
@@ -1324,6 +1360,10 @@ footer .footerContainer .socialMedia ul li{
     background: #06C269;
     margin-left: 1.85rem;
     margin-top: 13.2rem;
+}
+
+.openmenu{
+    transform: translateX(0%);
 }
 
     

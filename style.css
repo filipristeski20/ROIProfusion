@@ -1366,6 +1366,207 @@ footer .footerContainer .socialMedia ul li{
     transform: translateX(0%);
 }
 
+@media only screen and (min-width: 550px){
+
+
+
+    .navigation .navigationtop{
+        max-width: 120.2rem;
+        max-height: 7.5rem;
+        margin: 3.4rem auto;
+        display: flex;
+        margin-bottom: 0;
+
+    }
+
+    .navigation .navigationtop .logo a img{
+        width: 20rem;
+
+    }
+
+    .navigation .navigationtop .hamburgermenu{
+        display: none;
+    }
+
+    .navigation .navigationtop .navigationbar .exitHamburger{
+        display: none;
+    }
+
+    .navigation .navigationtop .navigationbar{
+
+        margin: 0;
+        width: auto;
+        height: auto;
+        width: 100%;
+        position: unset; 
+        transform: none;
+        transition: none;
+
+        }
+
+    .navigation .navigationtop .navigationbar ul{
+        display: flex;
+        margin: 0;
+        padding: 0;
+        justify-content: center;
+        background-color: #F5F5F5;
+    }
+
+    .navigation .navigationtop .navigationbar ul li{
+        margin: 0;
+        padding: 0;
+        padding: 0 3.3rem;
+    }
+
+
+    .navigation .navigationtop .contactUsButton {
+        display: block;
+        border-radius: 2.0rem;
+        background: #06C269;
+        margin-right: 1.9rem;
+    }
+
+    .navigation .navigationtop .contactUsButton button{
+        border-radius: 2.0rem;
+        background: #06C269;
+        border: #06C269;
+        width: 17.4rem;
+        height: 4.8rem;
+        color: #F5F5F5;
+        font-family: Poppins;
+        font-size: 1.8rem;        
+        font-style: normal;
+        font-weight: 600;
+        line-height: normal;
+        cursor: pointer;
+    }
+
+
+    .mainLandingSection .mainLandingSectionContainer{
+        max-width: 120rem;
+        margin: 0 auto;
+        display: flex;
+    }
+
+    .mainLandingSection .mainLandingSectionContainer .leftColumn .global{
+
+        text-align: left;
+        color: #FFF;
+        font-family: Poppins;
+        font-size: 5rem;
+        font-style: normal;
+        font-weight: 700;
+        line-height: normal;
+        text-transform: uppercase;
+        margin: 0;
+        padding: 0;
+        margin-top: 8.3rem;
+
+    }
+
+    .mainLandingSection .mainLandingSectionContainer .leftColumn .unlock{
+        color: #FFF;
+        font-family: Poppins;
+        font-size: 2.3rem;
+        font-style: normal;
+        font-weight: 500;
+        line-height: normal;    
+        text-align: left; 
+        margin: 0;
+        padding: 0;
+        margin-top: 1.1rem;   
+    }
+
+    .mainLandingSection .mainLandingSectionContainer .leftColumn .getStarted{
+        margin: 0;
+        margin-top: 8.6rem;
+    }
+
+    .mainLandingSection .mainLandingSectionContainer .rightColumn{
+        margin: 0;
+        padding: 0;
+        margin-top: 5rem;
+        margin-left: 6.7rem;
+    }
+
+    .mainLandingSection .mainLandingSectionContainer .rightColumn .rightColumnStatistics .statistics1{
+        width: 21.9rem;
+        height: 27.1rem;
+    }
+
+    .mainLandingSection .mainLandingSectionContainer .rightColumn .rightColumnStatistics .statistics1 .no1{
+        margin: 0;
+        margin: 8.4rem 4.01rem 0 5.75rem;
+        color: #06C269;
+        font-family: Poppins;
+        font-size: 5rem;        
+        font-style: normal;
+        font-weight: 600;
+        line-height: normal;
+    }
+
+    .mainLandingSection .mainLandingSectionContainer .rightColumn .rightColumnStatistics .statistics1 .no1text{
+        color: #F5F5F5;
+        text-align: center;
+        font-family: Poppins;
+        font-size: 1.8rem;
+        font-style: normal;
+        font-weight: 500;
+        line-height: normal;     
+        margin: 0;
+        margin: 0 0.6rem 5.8rem 0.6rem;   
+    }
+
+
+
+    .mainLandingSection .mainLandingSectionContainer .rightColumn .rightColumnStatistics .statistics2{
+        width: 21.9rem;
+        height: 27.1rem;
+    }
+
+    .mainLandingSection .mainLandingSectionContainer .rightColumn .rightColumnStatistics .statistics2 .twohundredfifty{
+        margin: 0;
+        margin: 7.8rem 4.6rem 0 4.6rem;
+        color: #06C269;
+        font-family: Poppins;
+        font-size: 5rem;        
+        font-style: normal;
+        font-weight: 600;
+        line-height: normal;
+    }
+
+    .mainLandingSection .mainLandingSectionContainer .rightColumn .rightColumnStatistics .statistics2 .generated{
+        margin: 0;
+        margin: 0 2.8rem 6.4rem 2.9rem;
+        color: #F5F5F5;
+        text-align: center;
+        font-family: Poppins;
+        font-size: 1.8rem;
+        font-style: normal;
+        font-weight: 500;
+        line-height: normal;        
+    }
+
+    .mainLandingSection .mainLandingSectionContainer .rightColumn .rightColumnPicture img{
+        width: 30.5rem;
+        height: 57rem;
+
+    }
+
+
+
+
+
+
+
+    
+
+
+
+  
+
+}
+
     
 
 

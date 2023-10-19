@@ -1553,6 +1553,245 @@ footer .footerContainer .socialMedia ul li{
 
     }
 
+    .numbersSection .numbersSectionContainer{
+        display: flex;
+        margin: 0;
+        padding: 0;
+        max-width: 120rem;
+        margin: 0 auto;
+        margin-top: 7rem;
+        padding: 2.7rem 0;
+    }
+
+    .numbersSection .numbersSectionContainer .campaigns{
+        margin: 0;
+        padding: 0;
+    }
+
+    .numbersSection .numbersSectionContainer .campaigns .onehundredfifty{
+        margin: 0;
+        padding: 0;
+        margin-left: 15.7rem;
+    }
+
+    .numbersSection .numbersSectionContainer .campaigns .campaignslaunched{
+        margin: 0;
+        padding: 0;
+        margin-left: 6.8rem;
+    }
+
+
+    .numbersSection .numbersSectionContainer .leads .threethousand{
+        margin: 0;
+        padding: 0;
+        margin-left: 27.8rem;
+    }
+
+    .numbersSection .numbersSectionContainer .leads .leadDelivered{
+        margin: 0;
+        padding: 0;
+        margin-left: 23.7rem;
+    }
+
+    .numbersSection .numbersSectionContainer .emails .onehundredninetyfive{
+        margin: 0;
+        padding: 0;
+        margin-left: 26.6rem;
+        margin-right: 8.4rem;
+    }
+
+    .numbersSection .numbersSectionContainer .emails .emailsSent{
+        margin: 0;
+        padding: 0;
+        margin-left: 27.2rem;
+    }
+
+    .descriptionSection .descriptionSectionContainer{
+        max-width: 120rem;
+        margin: 0 auto;
+    }
+
+    .descriptionSection .descriptionSectionContainer .leftcolumndescription{
+        display: block;
+        margin: 0;
+        padding: 0;
+        width: 50.8rem;
+        height: 50rem;
+        border-radius: 5rem 0px 0px 5rem;
+        border: 0.1rem solid #06C269;
+        background: #1C1E29;        
+
+    }
+
+    .descriptionSection .descriptionSectionContainer .weHelpYou{
+        margin-top: 12.1rem;
+    }
+
+    .descriptionSection .descriptionSectionContainer .descriptions{
+        margin-top: 7.4rem;
+    }
+
+
+    .descriptionSection .descriptionSectionContainer .rightcolumndescription .rightColumnDescriptionTop {
+        width: 68rem;
+        height: 24.3rem;
+        border-radius: 0px 5.2863rem 0px 0px;
+        border: 0.1057rem solid #06C269;
+        background: #1C1E29;
+        padding: 0;
+        margin: 0;
+        margin-left: 1.2rem;
+    } 
+    
+    .descriptionSection .descriptionSectionContainer .rightcolumndescription .rightColumnDescriptionBottom {
+        width: 68rem;
+        height: 24.3rem;
+        border-radius: 0px 0px 5.2955rem 0px;
+        border: 0.1059px solid #06C269;
+        background: #1C1E29; 
+        padding: 0;
+        margin: 0;
+        margin-top: 1.4rem;
+        margin-left: 1.2rem;       
+    }  
+
+    .descriptionSection .descriptionSectionContainer .descriptions{
+        display: flex;
+    }
+
+    .descriptionSection .descriptionSectionContainer .leftcolumndescription .authentic {
+
+        color: #F5F5F5;
+        font-family: Poppins;
+        font-size: 2.5rem;
+        font-style: normal;
+        font-weight: 700;
+        line-height: normal;
+        text-transform: uppercase; 
+        text-align: left;  
+        margin: 0;     
+        padding: 0;   
+        margin-top: 11.2rem;  
+        margin-left: 4.2rem;  
+    }
+
+    .descriptionSection .descriptionSectionContainer .leftcolumndescription .line {
+
+        width: 20rem;
+        height: 0.2rem; 
+        background: #06C269;
+        margin: 0;
+        padding: 0;  
+        margin-top: 2.5rem; 
+        margin-left: 4.2rem;  
+
+    }
+
+    .descriptionSection .descriptionSectionContainer .leftcolumndescription .outshine {
+
+        color: #F5F5F5;
+        font-family: Poppins;
+        font-size: 1.8rem;
+        font-style: normal;
+        font-weight: 500;
+        line-height: normal;         
+        margin: 0;
+        padding: 0;
+        text-align: left;
+        margin-left: 4.2rem;
+        margin-top: 2.5rem;
+
+    }
+
+    .descriptionSection .descriptionSectionContainer .descriptions .rightcolumndescription .rightColumnDescriptionTop .coldEmail{
+
+        color: #F5F5F5;
+        font-family: Poppins;
+        font-size: 2.5rem;
+        font-style: normal;
+        font-weight: 700;
+        line-height: normal;
+        text-transform: uppercase;
+        margin: 0;
+        margin-top: 4.3rem;
+        margin-left: 4.2rem;
+        text-align: left        ;
+    }
+
+    .descriptionSection .descriptionSectionContainer .descriptions .rightcolumndescription .rightColumnDescriptionTop .line2{
+        width: 20rem;
+        height: 0.2rem;
+        background:#06C269;
+        margin: 0;
+        margin-top: 1.9rem;
+        margin-left: 4.2rem;
+    }
+
+    .descriptionSection .descriptionSectionContainer .descriptions .rightcolumndescription .rightColumnDescriptionTop .employ{
+        margin: 0;
+        color: #F5F5F5;
+        font-size: 1.8rem;
+        font-style: normal;
+        font-weight: 500;
+        line-height: normal;
+        margin-top: 1.8rem;        
+        margin-left: 4.2rem;
+        text-align: left;
+        margin-right: 7.3rem;
+    }
+
+    .descriptionSection .descriptionSectionContainer .descriptions .rightcolumndescription .rightColumnDescriptionBottom .qualified{
+        margin: 0;
+        text-align: left;
+        color: #F5F5F5;
+        font-size: 2.5rem;
+        font-style: normal;
+        font-weight: 700;
+        line-height: normal;
+        text-transform: uppercase;
+        margin-top: 4.3rem;        
+        margin-left: 4.2rem;
+    }
+
+    .descriptionSection .descriptionSectionContainer .descriptions .rightcolumndescription .rightColumnDescriptionBottom .line3{
+        margin: 0;
+        width: 20rem;
+        height: 0.2rem;        
+        background: #06C269;
+        margin-left: 4.2rem;
+        margin-top: 1.9rem;
+        
+    }
+
+    .descriptionSection .descriptionSectionContainer .descriptions .rightcolumndescription .rightColumnDescriptionBottom .ourLeads{
+        margin: 0;
+        text-align: left;
+        color: #F5F5F5;
+        font-family: Poppins;
+        font-size: 1.8rem;
+        font-style: normal;        
+        font-weight: 500;
+        line-height: normal;
+        margin-left: 4.2rem;
+        margin-top: 1.9rem;
+        margin-right: 8.2rem;
+    }
+
+
+
+
+
+
+
+
+
+
+
+
+    
+
+
+
 
 
 

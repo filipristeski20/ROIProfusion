@@ -844,6 +844,7 @@ text-transform: uppercase;
     width: 5rem;
     margin: 0;
     margin: 7.3rem 15.2rem 0 14.8rem;
+    margin-left: 1.4rem;
 
 
 }
@@ -1776,6 +1777,962 @@ footer .footerContainer .socialMedia ul li{
         margin-top: 1.9rem;
         margin-right: 8.2rem;
     }
+
+    .stepsSection .stepsContainer {
+        max-width: 120rem;
+        margin: 0 auto;
+    }
+
+    .stepsSection .stepsContainer .title{
+        margin:0;
+        padding: 0;
+    }
+
+    .stepsSection .stepsContainer .title h1{
+        margin:0;
+        padding: 0;
+        text-align: left;
+        margin-top: 12.1rem;
+        
+    }
+
+    .stepsSection .stepsContainer .title h1{
+        margin:0;
+        padding: 0;
+        text-align: left;
+        margin-top: 12.1rem;
+        
+    }
+
+    .stepsSection .stepsContainer .step{
+        display: flex;
+        margin: 0;
+        padding: 0;
+    }
+
+    .stepsSection .stepsContainer .title h1 .wellBreak1{
+        display: none;
+    }
+
+    .stepsSection .stepsContainer .title h1 {
+        text-align: center        ;
+    }
+
+    .stepsSection .stepsContainer .step .stepnumber1{
+        margin: 0;
+        padding: 0;
+        color: #FFF;
+        font-family: Poppins;
+        font-size: 4.5rem;
+        font-style: normal;
+        font-weight: 700;
+        line-height: normal;
+        text-transform: uppercase;
+        margin-top: 17.2rem;
+    }
+
+    .stepsSection .stepsContainer .step .firstArrow{
+        margin: 0;
+        padding: 0;
+    }
+
+    .stepsSection .stepsContainer .step .coldEmail{
+        margin: 0;
+        padding: 0;
+    }
+
+    .stepsSection .stepsContainer .step .coldEmail{
+        width: 78.1rem;
+        height: 18rem;
+        border-radius: 5.29rem 5.29rem 5.2955rem 5.29rem;        
+        border: 0.1059rem solid #06C269;
+        background: #1C1E29;
+        margin-top: 14.2rem;
+        margin-left: 9.65rem;
+    }
+
+    .stepsSection .stepsContainer .step .firstArrow{
+        margin: 0;
+        padding: 0;
+        width: 5rem;
+        height: 5rem;
+        margin-top: 20.65rem;
+        margin-left: 11.65rem;
+        transform: rotate(0deg);
+    }
+
+
+
+    .stepsSection .stepsContainer .step .coldEmail .arrow{
+        display: flex;
+        margin: 0;
+        padding: 0;
+    }
+
+    
+
+    .stepsSection .stepsContainer .step .coldEmail .arrow .secondArrow{
+
+        margin: 0;
+        padding: 0;
+        width: 5rem;
+        height: 5rem;
+        margin-top: 6.5rem;
+        margin-left: 4.6rem;
+
+    }
+
+    .stepsSection .stepsContainer .step .coldEmail .arrow .arrowText .emailStrategy{
+        margin: 0;
+        padding: 0;
+        text-align: left;
+        color: #F5F5F5;
+        font-family: Poppins;
+        font-size: 2.5rem;
+        font-style: normal;        
+        font-weight: 700;
+        line-height: normal;
+        text-transform: uppercase;
+        margin-top: 3.0rem;
+        margin-left: 4.7rem;
+    }
+
+    .stepsSection .stepsContainer .step .coldEmail .arrow .arrowText .coldOutreachDesign{
+        margin: 0;
+        padding: 0;
+        text-align: left;
+        color: #F5F5F5;
+        font-family: Poppins;
+        font-size: 1.8rem;
+        font-style: normal;
+        font-weight: 500;
+        line-height: normal;
+        margin-top: 1.6rem;
+        margin-left: 4.7rem;
+        margin-right: 7.7rem;
+    }
+
+    /*fefsefsefsefsefsefsefsefsefsefsefsefsef*/
+
+    .stepsSection .stepsContainer .step2{
+        margin: 0;
+        padding: 0;
+        display: flex;
+    }
+
+    .stepsSection .stepsContainer .step2 .stepnumber2{
+        margin: 0;
+        padding: 0;
+        color: #FFF;
+        font-family: Poppins;
+        font-size: 4.5rem;
+        font-style: normal;
+        font-weight: 700;
+        line-height: normal;
+        text-transform: uppercase;
+        margin-top: 5.9rem;
+    }
+
+    .stepsSection .stepsContainer .step2 .thirdArrow{
+        margin: 0;
+        padding: 0;
+        width: 5rem;
+        height: 5rem;
+        transform: rotateX(0deg);
+        margin-top: 9.35rem;
+        margin-left: 10.05rem;
+    }
+
+    .stepsSection .stepsContainer .step2 .yourCalendar{
+        margin: 0;
+        padding: 0;
+        width: 78.1rem;
+        height: 18.0rem;
+        border-radius: 5.29rem 5.29rem 5.2955rem 5.29rem;
+        border: 0.1059rem solid #06C269;
+        background: #1C1E29;
+        margin-left: 9.65rem;
+        margin-top: 2.9rem;
+    }
+
+    .stepsSection .stepsContainer .step2 .yourCalendar .calendar {
+        display: flex;
+        padding: 0;
+        margin: 0;
+    }
+
+    .stepsSection .stepsContainer .step2 .yourCalendar .calendar .calendarPicture{
+
+        margin: 0;
+        padding: 0;
+        margin-top: 6.5rem;
+        margin-left: 4.6rem;
+        width: 5rem;
+        height: 5rem;
+
+    }
+
+
+
+    .stepsSection .stepsContainer .step2 .yourCalendar .calendar .calendarText{
+        margin: 0;
+        padding: 0;
+    }
+
+    .stepsSection .stepsContainer .step2 .yourCalendar .calendar .calendarText .fillCalendar{
+        margin: 0;
+        padding: 0;
+        text-align: left;
+        color: #F5F5F5;
+        font-family: Poppins;
+        font-size: 2.5rem;
+        font-style: normal;
+        font-weight: 700;
+        line-height: normal;
+        text-transform: uppercase;
+        margin-top: 2.6rem;        
+        margin-left: 4.7rem;
+
+    }
+
+    .stepsSection .stepsContainer .step2 .yourCalendar .calendar .calendarText .wePick{
+
+        margin: 0;
+        padding: 0;
+        color: #F5F5F5;
+        font-family: Poppins;
+        font-size: 1.8rem;
+        font-style: normal;
+        font-weight: 500;
+        line-height: normal;
+        margin-top: 1.6rem;
+        margin-left: 4.7rem;
+        text-align: left;
+        margin-right: 13.6rem;
+
+    }
+
+
+    /*fsefsefsefsefsefsef*/
+
+    .stepsSection .stepsContainer .step3{
+        margin: 0;
+        padding: 0;
+        display: flex;
+    }
+
+    .stepsSection .stepsContainer .step3 .stepnumber3{
+        margin: 0;
+        padding: 0;
+        color: #FFF;
+        font-family: Poppins;
+        font-size: 4.5rem;
+        font-style: normal;
+        font-weight: 700;
+        line-height: normal;
+        text-transform: uppercase;
+        margin-top: 5.9rem;
+    }
+
+    .stepsSection .stepsContainer .step3 .arrow3{
+        margin: 0;
+        padding: 0;
+        width: 5rem;
+        height: 5rem;
+        transform: rotateX(0deg);
+        margin-top: 9.35rem;
+        margin-left: 10.05rem;
+    }
+
+    .stepsSection .stepsContainer .step3 .yourDeal{
+        margin: 0;
+        padding: 0;
+        width: 78.1rem;
+        height: 18.0rem;
+        border-radius: 5.29rem 5.29rem 5.2955rem 5.29rem;
+        border: 0.1059rem solid #06C269;
+        background: #1C1E29;
+        margin-left: 9.65rem;
+        margin-top: 2.9rem;
+    }
+
+    .stepsSection .stepsContainer .step3 .yourDeal .trend {
+        display: flex;
+        padding: 0;
+        margin: 0;
+    }
+
+    .stepsSection .stepsContainer .step3 .yourDeal .trend .trendy{
+
+        margin: 0;
+        padding: 0;
+        margin-top: 6.5rem;
+        margin-left: 4.6rem;
+        width: 5rem;
+        height: 5rem;
+
+    }
+
+
+
+    .stepsSection .stepsContainer .step3 .yourDeal .trend .dealText{
+        margin: 0;
+        padding: 0;
+    }
+
+    .stepsSection .stepsContainer .step3 .yourDeal .trend .dealText .closeDeal{
+        margin: 0;
+        padding: 0;
+        text-align: left;
+        color: #F5F5F5;
+        font-family: Poppins;
+        font-size: 2.5rem;
+        font-style: normal;
+        font-weight: 700;
+        line-height: normal;
+        text-transform: uppercase;
+        margin-top: 2.6rem;        
+        margin-left: 4.7rem;
+
+    }
+
+    .stepsSection .stepsContainer .step3 .yourDeal .trend .dealText .highQuality{
+
+        margin: 0;
+        padding: 0;
+        color: #F5F5F5;
+        font-family: Poppins;
+        font-size: 1.8rem;
+        font-style: normal;
+        font-weight: 500;
+        line-height: normal;
+        margin-top: 1.6rem;
+        margin-left: 4.7rem;
+        text-align: left;
+        margin-right: 13.6rem;
+
+    }
+
+    .footer .footerContainer{
+        max-width: 120rem;
+        margin: 0 auto;
+        display: flex;
+        justify-content: space-between;
+    }
+
+    .footer .footerContainer .navigation .navigationFooter{
+        margin: 0;
+        padding: 0;
+        text-align: left;
+        color: #06C269;
+        font-family: Poppins;
+        font-size: 2.5rem;       
+        font-style: normal;
+        font-weight: 700;
+        line-height: normal;
+        text-transform: capitalize;
+    }
+
+    .footer .footerContainer .navigation ul{
+        margin: 0;
+        padding: 0;
+        margin-top: 3.1rem;
+    }
+
+   
+
+
+
+    .footer .footerContainer .navigation ul li{
+        margin: 0;
+        padding: 0;
+        text-align: left;
+        margin-top: 1.1rem;
+    }
+
+    .footer .footerContainer .forYou .forYouText{
+
+        margin: 0;
+        padding: 0;
+        text-align: left;
+        color: #06C269;
+        font-family: Poppins;
+        font-size: 2.5rem;       
+        font-style: normal;
+        font-weight: 700;
+        line-height: normal;
+        text-transform: capitalize;
+
+    }
+
+    .footer .footerContainer .forYou ul{
+        margin: 0;
+        margin-top: 3.1rem;
+    }
+
+    .footer .footerContainer .forYou ul li{
+        margin: 0;
+        padding: 0;
+        text-align: left;
+        margin-top: 1.1rem;
+        
+    }
+
+    .footer .footerContainer .socialMedia{
+        margin: 0;
+        padding: 0;
+    }
+
+    .footer .footerContainer .socialMedia .socialMediaText{
+
+        margin: 0;
+        padding: 0;
+        text-align: left;
+        color: #06C269;
+        font-family: Poppins;
+        font-size: 2.5rem;       
+        font-style: normal;
+        font-weight: 700;
+        line-height: normal;
+        text-transform: capitalize;
+
+    }
+
+    .footer .footerContainer .socialMedia ul {
+        margin: 0;
+        padding: 0;
+        text-align: left;
+        
+    }
+
+    .footer .footerContainer .socialMedia ul li {
+        list-style-type: none;
+    }
+
+    .footer .footerContainer .socialMedia ul{
+        margin: 0;
+        margin-top: 3.1rem;
+    }
+
+    .footer .footerContainer .socialMedia ul li a img{
+        width: 4.5rem;
+    }
+
+    .provenSystem .provenSystemContainer{
+        max-width: 120rem;
+        margin: 0 auto;
+        position: relative;
+        padding: 0;
+    }
+
+    .provenSystem .provenSystemContainer .managing{
+        margin: 0;
+        padding: 0;
+        text-align: left;
+        color: #FFF;
+        font-family: Poppins;
+        font-size: 3.5rem;        
+        font-style: normal;
+        font-weight: 700;
+        line-height: normal;
+        text-transform: uppercase;
+        margin-top: 9.2rem;
+        margin-left: 6.4rem;
+        width: 83.4rem;
+    }
+
+
+
+    .provenSystem .provenSystemContainer .elements{
+        display: flex;
+        
+    }
+
+    .provenSystem .provenSystemContainer .elements .marketResearch .research{
+        margin: 0;
+        padding: 0;
+        width: 5rem;
+        height: 5rem;
+        margin-top: 10.05rem;
+        margin-left: 6.4rem;
+    }
+
+    .provenSystem .provenSystemContainer .elements .techStack .sandbox{
+        margin: 0;
+        padding: 0;
+        width: 5rem;
+        height: 5rem;
+        margin-top: 10.05rem;
+    }
+
+    .provenSystem .provenSystemContainer .elements .prospectList .client{
+        margin: 0;
+        padding: 0;
+        width: 5rem;
+        height: 5rem;
+        margin-top: 10.05rem;
+    }
+
+    .provenSystem .provenSystemContainer .elements .emailExecution .email{
+        margin: 0;
+        padding: 0;
+        width: 5rem;
+        height: 5rem;
+        margin-top: 10.05rem;
+    }
+
+    .provenSystem .provenSystemContainer .elements .appointmentSetting .phoneCall{
+        margin: 0;
+        padding: 0;
+        width: 5rem;
+        height: 5rem;
+        margin-top: 10.05rem;
+    }
+
+    .provenSystem .provenSystemContainer .elements .marketResearch .market{
+        color: #FFF;
+        font-family: Poppins;
+        font-size: 2.5rem;
+        font-style: normal;
+        font-weight: 700;
+        line-height: normal;
+        text-transform: uppercase;
+        margin: 0;
+        margin-left: 6.4rem;
+        margin-top: 2.7rem;
+    }
+    
+    .provenSystem .provenSystemContainer .elements .techStack .tech{
+        color: #FFF;
+        font-family: Poppins;
+        font-size: 2.5rem;
+        font-style: normal;
+        font-weight: 700;
+        line-height: normal;
+        text-transform: uppercase;
+        margin: 0;
+        margin-top: 2.7rem;
+        margin-left: 1.4rem;
+    }
+    
+    .provenSystem .provenSystemContainer .elements .prospectList .prospect{
+        color: #FFF;
+        font-family: Poppins;
+        font-size: 2.5rem;
+        font-style: normal;
+        font-weight: 700;
+        line-height: normal;
+        text-transform: uppercase;
+        margin: 0;
+        margin-top: 2.7rem;
+    }   
+    
+    .provenSystem .provenSystemContainer .elements .emailExecution .newEmail{
+        color: #FFF;
+        font-family: Poppins;
+        font-size: 2.5rem;
+        font-style: normal;
+        font-weight: 700;
+        line-height: normal;
+        text-transform: uppercase;
+        margin: 0;
+        margin-top: 2.7rem;
+    }  
+    
+    .provenSystem .provenSystemContainer .elements .appointmentSetting .newAppointment{
+        color: #FFF;
+        font-family: Poppins;
+        font-size: 2.5rem;
+        font-style: normal;
+        font-weight: 700;
+        line-height: normal;
+        text-transform: uppercase;
+        margin: 0;
+        margin-top: 2.7rem;
+    }  
+
+    /* fsefsefsefsefsefsefsef*/ 
+
+    .provenSystem .provenSystemContainer .elements .marketResearch .targetAudience {
+        margin: 0;
+        padding: 0;
+    }
+
+    .provenSystem .provenSystemContainer .elements .marketResearch .targetAudience img{
+        margin: 0;
+        padding: 0;
+        margin-left: 5rem;
+        margin-top: 2.9rem;
+    }
+
+    .provenSystem .provenSystemContainer .elements .marketResearch .targetAudience h4{
+        margin: 0;
+        padding: 0;
+        margin-top: 2.7rem;
+        margin-left: 0.9rem;
+    
+    }
+
+
+    .provenSystem .provenSystemContainer .elements .marketResearch .price img{
+        margin: 0;
+        padding: 0;
+        margin-left: 5rem;
+        margin-top: 1.2rem;
+    }
+
+    .provenSystem .provenSystemContainer .elements .marketResearch .price h4{
+        margin: 0;
+        padding: 0;
+        margin-top: 0.9rem;
+        margin-left: 0.9rem;
+    
+    }
+
+
+    .provenSystem .provenSystemContainer .elements .marketResearch .Offer img{
+        margin: 0;
+        padding: 0;
+        margin-left: 5rem;
+        margin-top: 1.2rem;
+    }
+
+    .provenSystem .provenSystemContainer .elements .marketResearch .Offer h4{
+        margin: 0;
+        padding: 0;
+        margin-top: 0.9rem;
+        margin-left: 0.9rem;
+    
+    }
+
+
+
+
+    /*step3*/
+
+
+    .provenSystem .provenSystemContainer .elements .techStack .domainSetup {
+        margin: 0;
+        padding: 0;
+    }
+
+    .provenSystem .provenSystemContainer .elements .techStack .domainSetup img{
+        margin: 0;
+        padding: 0;
+        margin-top: 2.9rem;
+    }
+
+    .provenSystem .provenSystemContainer .elements .techStack .domainSetup h4{
+        margin: 0;
+        padding: 0;
+        margin-top: 2.7rem;
+        margin-left: 0.9rem;
+    
+    }
+
+
+    .provenSystem .provenSystemContainer .elements .techStack .emailSetup img{
+        margin: 0;
+        padding: 0;
+        margin-top: 1.2rem;
+    }
+
+    .provenSystem .provenSystemContainer .elements .techStack .emailSetup h4{
+        margin: 0;
+        padding: 0;
+        margin-top: 0.9rem;
+        margin-left: 0.9rem;
+    
+    }
+
+
+    .provenSystem .provenSystemContainer .elements .techStack .emailWarmup img{
+        margin: 0;
+        padding: 0;
+        margin-top: 1.2rem;
+    }
+
+    .provenSystem .provenSystemContainer .elements .techStack .emailWarmup h4{
+        margin: 0;
+        padding: 0;
+        margin-top: 0.9rem;
+        margin-left: 0.9rem;
+    
+    }
+
+
+    .provenSystem .provenSystemContainer .elements .prospectList .decisionMakers img{
+        margin: 0;
+        padding: 0;
+        margin-top: 3.2rem;
+    }
+
+    .provenSystem .provenSystemContainer .elements .prospectList .decisionMakers h4{
+        margin: 0;
+        padding: 0;
+        margin-top: 2.7rem;
+        margin-left: 0.9rem;
+    }
+
+
+    .provenSystem .provenSystemContainer .elements .prospectList .emailAddresses img{
+        margin: 0;
+        padding: 0;
+        margin-top: 1.3rem;
+    }
+
+    .provenSystem .provenSystemContainer .elements .prospectList .emailAddresses h4{
+        margin: 0;
+        padding: 0;
+        margin-top: 2.7rem;
+        margin-left: 0.7rem;
+    
+    }
+
+
+    .provenSystem .provenSystemContainer .elements .emailExecution .scriptWriting img{
+        margin: 0;
+        padding: 0;
+        margin-top: 3rem;
+    }
+
+    .provenSystem .provenSystemContainer .elements .emailExecution .scriptWriting h4{
+        margin: 0;
+        padding: 0;
+        margin-top: 2.7rem;
+        margin-left: 0.9rem;
+    }
+
+
+    
+    .provenSystem .provenSystemContainer .elements .emailExecution .personalisation img{
+        margin: 0;
+        padding: 0;
+        margin-top: 1.1rem;
+    }
+
+    .provenSystem .provenSystemContainer .elements .emailExecution .personalisation h4{
+        margin: 0;
+        padding: 0;
+        margin-top: 1.1rem;
+        margin-left: 0.9rem;
+    }
+
+
+    .provenSystem .provenSystemContainer .elements .emailExecution .abTesting img{
+        margin: 0;
+        padding: 0;
+        margin-top: 1.1rem;
+    }
+
+    .provenSystem .provenSystemContainer .elements .emailExecution .abTesting h4{
+        margin: 0;
+        padding: 0;
+        margin-top: 1.1rem;
+        margin-left: 0.9rem;
+    }
+
+
+    
+    .provenSystem .provenSystemContainer .elements .appointmentSetting .crmSystem img{
+        margin: 0;
+        padding: 0;
+        margin-top: 3rem;
+    }
+
+    .provenSystem .provenSystemContainer .elements .appointmentSetting .crmSystem h4{
+        margin: 0;
+        padding: 0;
+        margin-top: 2.7rem;
+        margin-left: 0.9rem;
+    }
+
+    .provenSystem .provenSystemContainer .elements .appointmentSetting .sop img{
+        margin: 0;
+        padding: 0;
+        margin-top: 1.1rem;
+    }
+
+    .provenSystem .provenSystemContainer .elements .appointmentSetting .sop h4{
+        margin: 0;
+        padding: 0;
+        margin-top: 0.9rem;
+        margin-left: 0.9rem;
+    }
+
+
+    .provenSystem .provenSystemContainer .elements .appointmentSetting .campaignStrategy img{
+        margin: 0;
+        padding: 0;
+        margin-top: 1.1rem;
+    }
+
+    .provenSystem .provenSystemContainer .elements .appointmentSetting .campaignStrategy h4{
+        margin: 0;
+        padding: 0;
+        margin-top: 0.9rem;
+        margin-left: 0.9rem;
+    }
+
+
+    .provenSystem .provenSystemContainer .elements .prospectList .decisionMakers img{
+        margin: 0;
+        padding: 0;
+        margin-top: 3.2rem;
+    }
+
+    .provenSystem .provenSystemContainer .elements .prospectList .decisionMakers h4{
+        margin: 0;
+        padding: 0;
+        margin-top: 3rem;
+        margin-left: 0.9rem;
+    }
+
+    .provenSystem .provenSystemContainer .elements .prospectList .emailAddresses img{
+        margin: 0;
+        padding: 0;
+        margin-top: 1.3rem;
+    }
+
+    .provenSystem .provenSystemContainer .elements .prospectList .emailAddresses h4{
+        margin: 0;
+        padding: 0;
+        margin-top: 0.9rem;
+        margin-left: 0.9rem;
+    }
+
+
+    .provenSystem .provenSystemContainer .elements .prospectList .verification img{
+        margin: 0;
+        padding: 0;
+        margin-top: 1.3rem;
+    }
+
+    .provenSystem .provenSystemContainer .elements .prospectList .verification h4{
+        margin: 0;
+        padding: 0;
+        margin-top: 0.9rem;
+        margin-left: 0.9rem;
+    }
+
+    .provenSystem .provenSystemContainer .elements .marketResearch .market .break1{
+        display: block;
+    }
+
+    .provenSystem .provenSystemContainer .elements .techStack .tech .break4{
+        display: block;
+    }
+
+    .provenSystem .provenSystemContainer .elements .prospectList .prospect .list{
+        display: block;
+    }
+
+    .provenSystem .provenSystemContainer .elements .emailExecution .newEmail .execution{
+        display: block;
+    }
+
+    .provenSystem .provenSystemContainer .elements .appointmentSetting .newAppointment .setting{
+        display: block;
+    }
+
+    .provenSystem .provenSystemContainer .elements .techStack{
+        margin-left: 3.2rem;
+    }
+
+    .provenSystem .provenSystemContainer .elements .prospectList{
+        margin-left: 4.3rem;
+    }
+
+    .provenSystem .provenSystemContainer .elements .emailExecution{
+        margin-left: 5.2rem;
+    }
+
+    .provenSystem .provenSystemContainer .elements .appointmentSetting{
+        margin-left: 5.4rem;
+    }
+
+    .provenSystem .provenSystemContainer .elements .prospectList .prospect{
+        margin-left:1.4rem;
+    }
+
+    .provenSystem .provenSystemContainer .elements .emailExecution .newEmail{
+        margin-left:1.4rem;
+    }
+
+    .provenSystem .provenSystemContainer .elements .appointmentSetting .newAppointment{
+        margin-left:1.4rem;
+    }
+
+
+
+    .provenSystem .provenSystemContainer .elements .techStack .sandbox{
+        margin-left: 1.4rem;
+    }
+
+    .provenSystem .provenSystemContainer .elements .prospectList .client{
+        margin-left: 1.4rem;
+    }
+
+
+    .provenSystem .provenSystemContainer .elements .emailExecution .email{
+        margin-left: 1.4rem;
+    }
+
+    .provenSystem .provenSystemContainer .elements .appointmentSetting .phoneCall{
+        margin-left: 1.4rem;
+    }
+
+    .provenSystem .provenSystemContainer .elements{
+        padding-bottom: 8.8rem;
+    }
+
+    .brekingLineSection .breakingLineSectionContainer{
+        display: none;
+    }
+
+    .provenSystem .provenSystemContainer{
+        margin-top: 13.4rem;
+    }
+
+    
+
+
+
+
+
+
+
+
+
+    
+
+
+    
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+    
+    
+
+
+
+
+
+
+
+
+
 
 
 

@@ -174,12 +174,99 @@
         </div>
     </section>
 
-    <section class="brekingLineSection">
-        <div class="breakingLineSectionContainer">
-            <div class="breakingLine"></div>
-        </div>
+
 
     </section>
+
+    <section class="faq">
+        <div class="faqContainer">
+
+            <h1>FREQUENTLY ASKED QUESTIONS</h1>
+
+            <div class="questions-container">
+                <div class="question">
+                    <button>
+                        <span>Whose name are you using while outreaching prospects?</span>
+                        <i class="fas fa-chevron-down d-arrow"></i>
+                    </button>
+                    <p>We use your top sales reps name and your company branding when getting in touch with prospects.
+                        Trust is built when the sales rep's name doesn't change during the process.</p>
+                </div>
+
+                <div class="question">
+                    <button>
+                        <span>Why cold email is better than cold calling?</span>
+                        <i class="fas fa-chevron-down d-arrow"></i>
+                    </button>
+                    <p>Cold mail as a marketing channel gives you ultimate control over your leadflow. You can test out
+                        different angles via AB testing and make tweaks to campaigns to see what works best.</p>
+                </div>
+
+                <div class="question">
+                    <button>
+                        <span>Do we see the scripts that you are using?</span>
+                        <i class="fas fa-chevron-down d-arrow"></i>
+                    </button>
+                    <p>Absolutely, we go through every email copy together before we launch the outreach campaigns.</p>
+                </div>
+
+                <div class="question">
+                    <button>
+                        <span>How do you know who to reach out to?</span>
+                        <i class="fas fa-chevron-down d-arrow"></i>
+                    </button>
+                    <p>We will thoroughly go through who your target audience is, your offer and your sales procedures
+                        during the onboarding call and will set clear expectations ensuring prospects are 100% the right
+                        market fit.</p>
+                </div>
+                <div class="question">
+                    <button>
+                        <span>Does this risk our domain?</span>
+                        <i class="fas fa-chevron-down d-arrow"></i>
+                    </button>
+                    <p>Not at all. We won't use your main domain to activate our outreach strategy, we will setup from
+                        our end and then forward on the red hot leads.</p>
+                </div>
+                <div class="question">
+                    <button>
+                        <span>Do you provide the list of our ideal prospects?</span>
+                        <i class="fas fa-chevron-down d-arrow"></i>
+                    </button>
+                    <p>Yes. We provide the list of your ideal prospects before launching the campaign. We carefully
+                        handpick the list, ensuring they are qualified.</p>
+                </div>
+                <div class="question">
+                    <button>
+                        <span>How much work do we have to do to get the meetings booked?</span>
+                        <i class="fas fa-chevron-down d-arrow"></i>
+                    </button>
+                    <p>Absolutely nothing at all. You just sit back and watch your pipeline grow, we will send you
+                        weekly updates on the progress.</p>
+                </div>
+                <div class="question">
+                    <button>
+                        <span>What if the prospects don't show up?</span>
+                        <i class="fas fa-chevron-down d-arrow"></i>
+                    </button>
+                    <p>This is actually quite rare. However if your prospect doesn't show up you can simply contact your
+                        designated account manager who will contact your prospect and get them booked in for an
+                        alternative day/time.</p>
+                </div>
+                <div class="question">
+                    <button>
+                        <span>What is your typical show up rate?</span>
+                        <i class="fas fa-chevron-down d-arrow"></i>
+                    </button>
+                    <p>It's currently sitting at 90%!</p>
+                </div>
+            </div>
+
+
+
+        </div>
+    </section>
+
+
 
     <section class="provenSystem">
         <div class="provenSystemContainer">
@@ -332,6 +419,19 @@
 
         close.addEventListener('click', () => {
             nav.classList.remove('openmenu')
+        })
+
+
+        const buttons = document.querySelectorAll('button');
+
+        buttons.forEach(button => {
+            button.addEventListener('click', () => {
+                const faq = button.nextElementSibling;
+                const icon = button.children[1];
+
+                faq.classList.toggle('show');
+                icon.classList.toggle('rotate');
+            })
         })
 
 

@@ -26,14 +26,15 @@
                 <div class="exitHamburger"><a href="#"><img src="/images/x.svg" alt="exit hamburger"></a></div>
                 <ul>
                     <li><a href="#">Home</a></li>
-                    <li><a href="#">Features</a></li>
-                    <li><a href="#">How It Works</a></li>
-                    <li><a href="#">FAQ</a></li>
-                    <li><a href="#">Blog</a></li>
+                    <li><a href="#featuresSection">Features</a></li>
+                    <li><a href="#howitworksSection">How It Works</a></li>
+                    <li><a href="#faqSection">FAQ</a></li>
+                    <li><a href="/blogs.html">Blog</a></li>
                 </ul>
             </div>
             <div class="contactUsButton">
-                <button>Contact Us</button>
+                <button id="calendlyLink"><a href="https://calendly.com/roi-profusion/30min?month=2023-11">Contact
+                        Us</a></button>
             </div>
         </div>
     </div>
@@ -48,7 +49,8 @@
                     <br>
                     Emails into Sales!
                 </h2>
-                <button class="getStarted">Get Started Now</button>
+                <button class="getStarted"><a href="https://calendly.com/roi-profusion/30min?month=2023-11">Get
+                        Started Now</a></button>
             </div>
             <div class="rightColumn">
                 <div class="rightColumnStatistics">
@@ -86,7 +88,7 @@
         </div>
     </section>
 
-    <section class="descriptionSection">
+    <section class="descriptionSection" id="featuresSection">
         <div class="descriptionSectionContainer">
             <div class="weHelpYou">
                 <h1 class="grow">WE HELP YOU GROW</h1>
@@ -122,31 +124,9 @@
 
     </section>
 
-    <div class="imagesText">
-        <div class="imagesTextWrapper">
-            <h1>OUR CASE STUDIES</h1>
-        </div>
-    </div>
 
-    <div class="images">
-        <div class="wrapper">
-            <i id="left" class="fa-solid fa-angle-left"><img src="/images/arrowright1.svg" alt=""></i>
-            <div class=" carousel">
-                <img src="/images/379912759_986075819309313_6704340643969848089_n.png" alt="img" draggable="false">
-                <img src="images/img-2.jpg" alt="img" draggable="false">
-                <img src="images/img-3.jpg" alt="img" draggable="false">
-                <img src="images/img-4.jpg" alt="img" draggable="false">
-                <img src="images/img-5.jpg" alt="img" draggable="false">
-                <img src="images/img-6.jpg" alt="img" draggable="false">
-                <img src="images/img-7.jpg" alt="img" draggable="false">
-                <img src="images/img-8.jpg" alt="img" draggable="false">
-                <img src="images/img-9.jpg" alt="img" draggable="false">
-            </div>
-            <i id="right" class="fa-solid fa-angle-right"><img src="/images/arrow.svg" alt=""></i>
-        </div>
-    </div>
 
-    <section class="stepsSection">
+    <section class="stepsSection" id="howitworksSection">
         <div class="stepsContainer">
             <div class="title">
                 <h1>HOW DOES THIS WORK? <br class="wellBreak1"> WELL, IT'S AS SIMPLE AS 1-2-3!</h1>
@@ -202,7 +182,7 @@
 
     </section>
 
-    <section class="faq">
+    <section class="faq" id="faqSection">
         <div class="faqContainer">
 
             <h1>FREQUENTLY ASKED QUESTIONS</h1>
@@ -402,10 +382,10 @@
                 <h2 class="navigationFooter">NAVIGATION</h2>
                 <ul>
                     <li><a href="#">Home</a></li>
-                    <li><a href="#">Features</a></li>
-                    <li><a href="#">How It Works</a></li>
-                    <li><a href="#">FAQ</a></li>
-                    <li><a href="#">Blog</a></li>
+                    <li><a href="#featuresSection">Features</a></li>
+                    <li><a href="#howitworksSection">How It Works</a></li>
+                    <li><a href="#faqSection">FAQ</a></li>
+                    <li><a href="/blogs.html">Blog</a></li>
                 </ul>
             </div>
 
@@ -420,8 +400,9 @@
             <div class="socialMedia">
                 <h2 class="socialMediaText">SOCIAL MEDIA</h2>
                 <ul>
-                    <li><a href="#"><img src="images/instagram.svg" alt="instagram logo" class="instaLogo"></a></li>
-                    <li><a href="#"><img src="/images/facebook.svg" alt="facebook logo" class="faceLogo"></a></li>
+                    <li><a
+                            href="https://twitter.com/adelina_bun?s=21&t=F0ufB-ROJRcUyILMocISQw&fbclid=IwAR3QHXxg9ohn9XbQAmTxN2e0O40Pn2GctUkzFj7L-IUVUNbd6xe6T4DiH8c"><img
+                                src="images/twittervector.svg" alt="twitter logo" class="instaLogo"></a></li>
                 </ul>
             </div>
 
@@ -533,6 +514,8 @@
 
         document.addEventListener("mouseup", dragStop);
         carousel.addEventListener("touchend", dragStop);
+
+
 
 
     </script>

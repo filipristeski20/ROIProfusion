@@ -2930,6 +2930,16 @@ footer .footerContainer .socialMedia ul li{
         margin-top: 13.4rem;
     }
 
+    .navigation .navigationtop .contactUsButton button a{
+        text-decoration: none;
+        color: white;
+    }
+
+    .mainLandingSection .mainLandingSectionContainer .leftColumn button a{
+        text-decoration: none;
+        color: white;
+    }
+
     
 
 

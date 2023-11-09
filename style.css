@@ -1582,6 +1582,10 @@ footer .footerContainer .socialMedia ul li{
     transform: translateX(0%);
 }
 
+.imagesText {
+    margin-top: 12rem;
+}
+
 @media only screen and (min-width: 550px){
 
 
@@ -2939,6 +2943,14 @@ footer .footerContainer .socialMedia ul li{
         text-decoration: none;
         color: white;
     }
+
+    
+    .imagesText {
+        margin-top: 20rem;
+    }
+
+
+
 
     
 
